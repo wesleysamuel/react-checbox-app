@@ -1,0 +1,23 @@
+.card-bg {
+	background-color: #E7E7E7;
+}
+
+.inner-card-bg {
+	background-color: #FFF;
+}
+
+.disable-card-bg {
+	background-color: #DBDBE3;
+}
+
+.form-group {
+	padding-top: 5px;
+}
+
+.card-body {
+	padding-bottom: 5px;
+}
+
+.p-b-5 {
+	padding-bottom: 5px;
+}
